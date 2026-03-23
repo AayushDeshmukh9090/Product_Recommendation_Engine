@@ -1,0 +1,10 @@
+```
+pandas
+numpy
+pyarrow
+scikit-learn
+sentence-transformers
+faiss-cpu
+gradio
+transformers
+```

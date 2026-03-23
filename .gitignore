@@ -1,0 +1,9 @@
+data/
+artifacts/
+__pycache__/
+*.pyc
+*.pkl
+*.npy
+*.bin
+*.jsonl
+.env
