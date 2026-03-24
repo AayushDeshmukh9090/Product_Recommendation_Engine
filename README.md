@@ -11,7 +11,7 @@ Traditional keyword-based recommendation engines fail when users search in natur
 
 ## Live Demo
 
-[HuggingFace Spaces — Link after deployment](https://huggingface.co/spaces/Aayush814/Product_Recommendation_Engine)
+[HuggingFace Spaces : Link after deployment](https://huggingface.co/spaces/Aayush814/Product_Recommendation_Engine)
 
 ---
 
