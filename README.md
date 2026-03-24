@@ -5,9 +5,16 @@
 
 ## Problem Statement
 
-Traditional keyword-based recommendation engines fail when users search in natural language. A query like *"I need something hydrating for cold weather"* should return skincare moisturizers — not ear warmers. This project builds a semantic product recommendation engine that understands **intent**, not just keywords, using dense vector embeddings and approximate nearest neighbor search.
+Traditional keyword-based recommendation engines fail when users search in natural language. A query like *"I need something hydrating for cold weather"* should return skincare moisturizers not ear warmers. This project builds a semantic product recommendation engine that understands **intent**, not just keywords, using dense vector embeddings and approximate nearest neighbor search.
 
 ---
+
+## Live Demo
+
+[HuggingFace Spaces — Link after deployment](https://huggingface.co/spaces/Aayush814/Product_Recommendation_Engine)
+
+---
+
 
 ## Architecture
 
@@ -238,12 +245,4 @@ faiss-cpu
 gradio
 transformers
 ```
-
----
-
-## Live Demo
-
-[HuggingFace Spaces — Link after deployment]
-
----
 
